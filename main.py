@@ -16,7 +16,7 @@ Ask questions directly from your PDF documents!
 """)
 
 # --- Static API Key ---
-GROQ_API_KEY = "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"  # <-- Replace with your Groq API key
+GROQ_API_KEY = "key"  # <-- Replace with your Groq API key
 client = Groq(api_key=GROQ_API_KEY)
 
 # --- Request Counter ---
